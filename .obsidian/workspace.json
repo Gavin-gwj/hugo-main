@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "index.zh.cn"
             }
-          },
-          {
-            "id": "2fa48e9afcb5aea8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc52d1c6ce8ac5a2",
+  "active": "a972b4e394889f63",
   "lastOpenFiles": [
+    "content/post/2025-05-13_203325/index.md",
     "content/post/5月13日日记/index.zh.cn.md",
+    "content/post/2025-05-13_203325/images",
+    "content/post/2025-05-13_203325",
+    "content/post/2025-05-13_203232/index.md",
     "content/post/2025-05-13_203138/index.md",
+    "content/post/2025-05-13_203232/images",
+    "content/post/2025-05-13_203232",
     "content/post/2025-05-13_203138/images",
     "content/post/2025-05-13_203138",
     "content/post/chinese-test/index.zh-cn.md",
@@ -205,11 +200,7 @@
     "content/post/2025-05-13_200721/index.md",
     "content/post/2025-05-13_200812/images",
     "content/post/2025-05-13_200812",
-    "content/post/2025-05-13_200721/images",
-    "content/post/2025-05-13_200721",
     "content/post/2025-05-13_200617/index.md",
-    "content/post/2025-05-13_200617/images",
-    "content/post/2025-05-13_200617",
     "content/post/new3/index.md",
     "content/post/newdemo/index.md",
     "content/post/new2/index.md",
