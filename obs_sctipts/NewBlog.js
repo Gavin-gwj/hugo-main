@@ -52,9 +52,6 @@ async function executeCommand() {
         const indexPath = path.join(postDir, "index.md");
         await fs.writeFile(indexPath, template, 'utf-8');
 
-        // 自动打开文件和Front Matter面板
-        const vaultPath = `content/post/${folderName}/index.md`;
-        const file = app.vault.getAbstractFileByPath(vaultPath);
         
         // 等待文件加载完成
         await new Promise(resolve => setTimeout(resolve, 500)); 
