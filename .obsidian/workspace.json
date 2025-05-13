@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/new2/index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ]
@@ -165,18 +165,19 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a972b4e394889f63",
   "lastOpenFiles": [
+    "content/post/new2/index.md",
     "public/p/new3/index.html",
     "public/p/new3",
     "public/ts/main.411c5fce143a7b660edeb5f523468feccc1a647ad6e0695f28f4d92e671033d6.js",
     "content/post/new3/index.md",
     "content/post/new3",
     "content/post/new1/index.md",
-    "content/post/new2/index.md",
     "content/post/chinese-test/index.zh-cn.md",
     "content/post/chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
     "content/post/placeholder-text/index.md",
@@ -188,7 +189,6 @@
     "public/archives/index.html",
     "public/archives",
     "public/post/page/2/index.html",
-    "public/post/page/1/index.html",
     "public/img/avatar_hu_cf5ff899d804496e.png",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg",
