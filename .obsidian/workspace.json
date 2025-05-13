@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/post/5月13日日记/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -171,6 +171,14 @@
   },
   "active": "a972b4e394889f63",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/post/5月13日日记/index.md",
+    "content/post/5月13日日记/images",
+    "content/post/5月13日日记",
+    "obs_sctipts/NewBlog.js",
+    "obs_sctipts/新建 文本文档.txt",
+    "obs_sctipts",
+    "新建文件夹",
     "content/post/new2/index.md",
     "public/p/new3/index.html",
     "public/p/new3",
@@ -183,12 +191,6 @@
     "content/post/placeholder-text/index.md",
     "content/post/placeholder-text/index.ar.md",
     "content/post/newdemo/index.md",
-    "public/ts/search.js",
-    "public/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js",
-    "public/ts",
-    "public/archives/index.html",
-    "public/archives",
-    "public/post/page/2/index.html",
     "public/img/avatar_hu_cf5ff899d804496e.png",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg",

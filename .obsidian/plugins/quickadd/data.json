@@ -1,6 +1,29 @@
 {
-  "choices": [],
-  "macros": [],
+  "choices": [
+    {
+      "id": "5f316092-cd33-4971-9538-8e8f773ec9e1",
+      "name": "新建博客",
+      "type": "Macro",
+      "command": false,
+      "macroId": "484826b0-f8b5-4cbd-8473-99f55b88f536"
+    }
+  ],
+  "macros": [
+    {
+      "name": "NEWBlog",
+      "id": "484826b0-f8b5-4cbd-8473-99f55b88f536",
+      "commands": [
+        {
+          "name": "NewBlog",
+          "type": "UserScript",
+          "id": "ac0257e5-980c-4959-b088-d3cd9740460c",
+          "path": "obs_sctipts/NewBlog.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
