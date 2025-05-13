@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/5月13日日记/index.zh.cn.md",
+                "file": "content/post/chinese-test/index.zh-cn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.zh.cn"
+              "title": "index.zh-cn"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "a972b4e394889f63",
   "lastOpenFiles": [
-    "content/post/2025-05-13_203325/index.md",
     "content/post/5月13日日记/index.zh.cn.md",
+    "content/_index.md",
+    "content/post/2025-05-13_203325/index.md",
     "content/post/2025-05-13_203325/images",
     "content/post/2025-05-13_203325",
     "content/post/2025-05-13_203232/index.md",
@@ -207,7 +208,6 @@
     "content/post/2025-05-13_200509/index.md",
     "content/post/2025-05-13_200318/index.md",
     "content/post/2025-05-13_200420/index.md",
-    "content/_index.md",
     "content/post/chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
     "content/post/placeholder-text/index.md",
     "content/post/placeholder-text/index.ar.md",
