@@ -27,43 +27,43 @@ function getTimeStamp() {
     ].join('');
 }
 
-// 新模板内容（已移除标签和系列）
-const templateContent = (date) => 
-     `---
-title: "标题"                         
-description : "这是描述信息"    
-date: ${date}        <!-- 这里改成动态日期 -->
-categories : [                              
-"标签",
-]
-
----
-<!--more-->`;
-
 async function executeCommand() {
     try {
         const hugoRoot = "D:/Software/hugo/dev";
-        const folderName = getTimeStamp(); // 使用时间戳命名文件夹
+        const folderName = getTimeStamp();
         const postDir = path.join(hugoRoot, "content/post", folderName);
-        const imagesDir = path.join(postDir, "images"); // 图片目录
+        const imagesDir = path.join(postDir, "images");
+        
+        // 读取外部模板文件
+        const templatePath = path.join(hugoRoot, "archetypes/default.md");
+        let template = await fs.readFile(templatePath, 'utf-8');
+        
+        // 替换模板变量（兼容Hugo archetypes语法）
+        const currentDate = getCurrentISODate();
+        template = template
+            .replace(/{{(\s*\.Date\s*)}}/g, currentDate)  // 匹配{{ .Date }}
+            .replace(/{{(\s*now.Format "2006-01-02T15:04:05-07:00"\s*)}}/g, currentDate); // 匹配复杂格式
 
-        // 创建文件夹结构
+        // 创建目录结构
         await fs.mkdir(postDir, { recursive: true });
         await fs.mkdir(imagesDir);
 
-        // 生成动态模板内容
-        const currentDate = getCurrentISODate();
-        const mdContent = templateContent(currentDate);
-
-        // 写入index.md
+        // 写入文章文件
         const indexPath = path.join(postDir, "index.md");
-        await fs.writeFile(indexPath, mdContent, 'utf-8');
+        await fs.writeFile(indexPath, template, 'utf-8');
+
+        // 自动打开文件和Front Matter面板
+        const vaultPath = `content/post/${folderName}/index.md`;
+        const file = app.vault.getAbstractFileByPath(vaultPath);
+        
+        // 等待文件加载完成
+        await new Promise(resolve => setTimeout(resolve, 500)); 
+        
+        // 执行打开操作
+        app.workspace.getLeaf(true).openFile(file);
+        app.commands.executeCommandById('obsidian-front-matter:open');
 
         new Notice(`创建成功！目录：${folderName}`);
-
-        // 自动打开文件
-        const vaultPath = `content/post/${folderName}/index.md`;
-        app.workspace.openLinkText(vaultPath, '', false);
 
     } catch (error) {
         console.error('[Error]', error);

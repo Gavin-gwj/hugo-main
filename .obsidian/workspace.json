@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/5月13日日记/index.md",
+                "file": "content/post/5月13日日记/index.zh.cn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.zh.cn"
+            }
+          },
+          {
+            "id": "2fa48e9afcb5aea8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,11 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a972b4e394889f63",
+  "active": "cc52d1c6ce8ac5a2",
   "lastOpenFiles": [
+    "content/post/5月13日日记/index.zh.cn.md",
+    "content/post/2025-05-13_203138/index.md",
+    "content/post/2025-05-13_203138/images",
+    "content/post/2025-05-13_203138",
     "content/post/chinese-test/index.zh-cn.md",
     "content/post/new1/index.md",
-    "content/post/5月13日日记/index.md",
     "content/post/2025-05-13_201006/index.md",
     "content/post/2025-05-13_201006/images",
     "content/post/2025-05-13_201006",
@@ -200,8 +214,6 @@
     "content/post/newdemo/index.md",
     "content/post/new2/index.md",
     "content/post/2025-05-13_200509/index.md",
-    "content/post/2025-05-13_200509/images",
-    "content/post/2025-05-13_200509",
     "content/post/2025-05-13_200318/index.md",
     "content/post/2025-05-13_200420/index.md",
     "content/_index.md",
