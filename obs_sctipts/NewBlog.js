@@ -29,16 +29,10 @@ function getTimeStamp() {
 
 // 新模板内容（已移除标签和系列）
 const templateContent = (date) => 
-    `---
+     `---
 title: "标题"                         
-author: "歌未竟"  
 description : "这是描述信息"    
-date: 2025-05-12        
-            
-
-tags : [                                    
-"tag",
-]
+date: ${date}        <!-- 这里改成动态日期 -->
 categories : [                              
 "标签",
 ]
