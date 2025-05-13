@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index.zh-cn"
             }
+          },
+          {
+            "id": "e34c51f6d1c27f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2025-05-13_223918/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#正文测试",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a972b4e394889f63",
+  "active": "e34c51f6d1c27f08",
   "lastOpenFiles": [
+    "content/post/chinese-test/index.zh-cn.md",
+    "content/post/2025-05-13_223918/images",
+    "content/post/2025-05-13_223918/index.md",
+    "content/post/2025-05-13_223918",
+    "content/post/new1/index.md",
     "content/post/5月13日日记/index.zh.cn.md",
     "content/_index.md",
     "content/post/2025-05-13_203325/index.md",
@@ -192,15 +212,11 @@
     "content/post/2025-05-13_203232",
     "content/post/2025-05-13_203138/images",
     "content/post/2025-05-13_203138",
-    "content/post/chinese-test/index.zh-cn.md",
-    "content/post/new1/index.md",
     "content/post/2025-05-13_201006/index.md",
     "content/post/2025-05-13_201006/images",
     "content/post/2025-05-13_201006",
     "content/post/2025-05-13_200812/index.md",
     "content/post/2025-05-13_200721/index.md",
-    "content/post/2025-05-13_200812/images",
-    "content/post/2025-05-13_200812",
     "content/post/2025-05-13_200617/index.md",
     "content/post/new3/index.md",
     "content/post/newdemo/index.md",
