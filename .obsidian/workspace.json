@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/new1/index.md",
+                "file": "content/post/new2/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/new1/index.md",
+                "file": "content/post/new2/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/new1/index.md",
+                "file": "content/post/new2/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/new1/index.md",
+                "file": "content/post/new2/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,6 +168,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cc52d1c6ce8ac5a2",
-  "lastOpenFiles": []
+  "active": "a972b4e394889f63",
+  "lastOpenFiles": [
+    "content/post/new1/index.md",
+    "content/post/new2/index.md",
+    "content/post/chinese-test/index.zh-cn.md",
+    "content/post/chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
+    "content/post/placeholder-text/index.md",
+    "content/post/placeholder-text/index.ar.md",
+    "content/post/newdemo/index.md",
+    "public/ts/search.js",
+    "public/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js",
+    "public/ts",
+    "public/archives/index.html",
+    "public/archives",
+    "public/post/page/2/index.html",
+    "public/post/page/1/index.html",
+    "public/post/page/2",
+    "public/post/page/1",
+    "public/post/page",
+    "public/img/avatar_hu_cf5ff899d804496e.png",
+    "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg",
+    "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg",
+    "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg",
+    "public/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg",
+    "public/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg",
+    "public/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg",
+    "public/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_e5aaa5f0b7bd07e9.jpg",
+    "public/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_c99ba9c80ceee4b3.jpg",
+    "content/post/emoji-support/index.md",
+    "content/post/markdown-syntax/index.md",
+    "content/post/math-typesetting/index.md"
+  ]
 }

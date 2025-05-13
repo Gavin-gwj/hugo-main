@@ -1,4 +1,4 @@
-baseurl: https://gavin-gwj.github.io/hugo-dev/
+baseurl: https://gavin-gwj.github.io/hugo-dev
 languageCode: en-us
 theme: hugo-theme-stack
 pagenate : 4
