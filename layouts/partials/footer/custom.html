@@ -1,1 +1,25 @@
-{{ partial "footer/aplayer.html" . }}
+<style>
+  body {
+    background: url({{ (resources.Get "background/bg1.jpg").Permalink }}) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.85);
+    background-blend-mode: lighten;
+  }
+
+  /* 确保内容区域在背景上清晰可见 */
+  .main-content {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2rem;
+    border-radius: 8px;
+    margin: 2rem auto;
+    max-width: 1200px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* 暗色模式适配 */
+  [data-scheme="dark"] body {
+    background-color: rgba(0, 0, 0, 0.7);
+    background-blend-mode: darken;
+  }
+</style>
