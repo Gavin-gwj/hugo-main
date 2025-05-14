@@ -14,7 +14,7 @@ tags:
   - MyBatis
 description: MyBatis 风格
 ---
-![示意图](Pasted-image-20250514161354.png)
+![示意图]("D:\Software\hugo\dev\content\post\2025-05-14_153634\images\Pasted-image-20250514161354.png")
 # Spring Boot 三层架构 CRUD 与前后端联调笔记 (MyBatis 风格 Mapper)
 ---
 
