@@ -8,11 +8,11 @@
       "macroId": "484826b0-f8b5-4cbd-8473-99f55b88f536"
     },
     {
-      "id": "aec06e86-9658-4541-91e4-3c3b725e0e5f",
-      "name": "发布",
+      "id": "70925f57-77b4-4c9a-a6a3-09838e3820f1",
+      "name": "发布博客",
       "type": "Macro",
       "command": false,
-      "macroId": "eccd7bd7-5aa1-4e6c-bee7-c12333fb46ad"
+      "macroId": "cccb324a-f6a5-49e0-9d3b-22ec8675d779"
     }
   ],
   "macros": [
@@ -37,11 +37,17 @@
         {
           "name": "deploy",
           "type": "UserScript",
-          "id": "9a535bd2-c8d6-435c-9a61-376f89401c8d",
+          "id": "f90f9b02-bebd-4664-a2b1-c11bf391f79d",
           "path": "obs_sctipts/deploy.js",
           "settings": {}
         }
       ],
+      "runOnStartup": false
+    },
+    {
+      "name": "发布博客",
+      "id": "cccb324a-f6a5-49e0-9d3b-22ec8675d779",
+      "commands": [],
       "runOnStartup": false
     }
   ],
