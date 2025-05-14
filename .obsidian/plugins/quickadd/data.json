@@ -22,6 +22,12 @@
         }
       ],
       "runOnStartup": false
+    },
+    {
+      "name": "Run Hugo Deploy",
+      "id": "eccd7bd7-5aa1-4e6c-bee7-c12333fb46ad",
+      "commands": [],
+      "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line",
