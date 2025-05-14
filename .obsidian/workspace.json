@@ -233,11 +233,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "publish:发布更改": false
     }
   },
-  "active": "cc52d1c6ce8ac5a2",
+  "active": "64edc904e67f632e",
   "lastOpenFiles": [
+    "content/post/2025-05-14_135614/index.md",
     "public/tags/springboot/page/1/index.html",
     "public/categories/笔记/page/1/index.html",
     "public/categories/日记/page/1/index.html",
@@ -248,7 +250,6 @@
     "public/categories/e-r图/page/1/index.html",
     "public/tags/springboot/page/1",
     "public/tags/page/1/index.html",
-    "public/post/page/2/index.html",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg",
@@ -260,7 +261,6 @@
     "public/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg",
     "public/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg",
     "content/post/2025-05-13_230919/images/index.md",
-    "content/post/2025-05-14_135614/index.md",
     "content/post/chinese-test/index.zh-cn.md",
     "content/post/2025-05-14_134507/index.md",
     "content/post/2025-05-14_132057/index.md",
