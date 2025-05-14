@@ -1,9 +1,9 @@
 baseurl: https://gavin-gwj.github.io/hugo-dev
 languageCode: en-us
 theme: hugo-theme-stack
-pagenate : 4
+pagenate : 5
 title: Gavin Site
-copyright:  歌未竟的小站
+copyright:  歌未竟的博客
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -21,7 +21,7 @@ languages:
         weight: 2
         params:
             sidebar:
-                subtitle: 欢迎来到我的网站！
+                subtitle: 欢迎来到我的技术网站！
 
 
 services:
