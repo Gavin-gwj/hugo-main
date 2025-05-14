@@ -225,8 +225,9 @@
   },
   "active": "6c961f6886f4a43e",
   "lastOpenFiles": [
-    "obs_sctipts/deploy.sh",
+    "obs_sctipts/deploy.js",
     "obs_sctipts/新建 文本文档.txt",
+    "obs_sctipts/deploy.sh",
     "public/tags/springboot/page/1/index.html",
     "public/tags/笔记/page/1/index.html",
     "public/tags/mybatis/page/1/index.html",
@@ -235,7 +236,6 @@
     "public/categories/日记/page/1/index.html",
     "public/categories/测试/page/1/index.html",
     "public/categories/springboot/page/1/index.html",
-    "public/categories/test/page/1/index.html",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg",
