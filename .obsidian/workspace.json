@@ -39,10 +39,14 @@
             "id": "2d434d722c91a8b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2025-05-13_230919/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ],
@@ -206,11 +210,14 @@
   },
   "active": "2d434d722c91a8b0",
   "lastOpenFiles": [
+    "content/post/2025-05-14_134507/index.md",
+    "content/post/2025-05-13_230919/index.md",
     "content/post/2025-05-14_132057/index.md",
+    "content/post/2025-05-14_134507/images",
+    "content/post/2025-05-14_134507",
     "content/post/2025-05-14_134038/images",
     "content/post/2025-05-14_134038/index.md",
     "content/post/2025-05-14_134038",
-    "content/post/2025-05-13_230919/index.md",
     "content/post/2025-05-14_133449/index.md",
     "content/post/2025-05-14_133449/images",
     "content/post/2025-05-14_133449",
@@ -219,8 +226,6 @@
     "public/p/实体-联系模型-entity-relationship-model-学习笔记",
     "public/p/index.html",
     "public/categories/e-r图/page/1/index.html",
-    "public/categories/e-r图/page/1",
-    "public/categories/e-r图/page",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg",
