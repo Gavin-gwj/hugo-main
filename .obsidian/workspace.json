@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9362d2d07203c6",
+        "id": "f662ead8c580c250",
         "type": "tabs",
         "children": [
           {
-            "id": "a972b4e394889f63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/chinese-test/index.zh-cn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index.zh-cn"
-            }
-          },
-          {
-            "id": "ca51cb3e6b127634",
+            "id": "23ff87a3e73e979d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,19 +179,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca51cb3e6b127634",
+  "active": "23ff87a3e73e979d",
   "lastOpenFiles": [
-    "public/post/page/1/index.html",
-    "public/post/page/1",
-    "public/post/page",
-    "public/post/index.xml",
-    "public/post/index.html",
-    "public/post",
-    "public/page/page/2/index.html",
-    "public/page/page/1/index.html",
-    "public/page/page/2",
-    "public/page/page/1",
-    "public/page/1/index.html",
+    "content/post/2025-05-13_230919/index.md",
+    "content/post/chinese-test/index.zh-cn.md",
+    "content/post/2025-05-14_132057/index.md",
+    "public/p/实体-联系模型-entity-relationship-model-学习笔记/index.html",
+    "public/p/实体-联系模型-entity-relationship-model-学习笔记",
+    "public/p/index.html",
+    "public/categories/e-r图/page/1/index.html",
+    "public/categories/e-r图/page/1",
+    "public/categories/e-r图/page",
+    "public/categories/e-r图/index.xml",
+    "public/categories/e-r图/index.html",
+    "public/categories/e-r图",
+    "public/page/2/index.html",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg",
     "public/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg",
@@ -218,10 +205,8 @@
     "public/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg",
     "public/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg",
     "content/post/2025-05-13_223918/index.md",
-    "content/post/2025-05-13_230919/index.md",
     "content/post/2025-05-13_230839/index.md",
     "content/post/2025-05-13_225857/index.md",
-    "content/post/chinese-test/index.zh-cn.md",
     "content/post/new1/index.md",
     "content/post/5月13日日记/index.zh.cn.md",
     "content/_index.md",
@@ -240,7 +225,6 @@
     "content/post/2025-05-13_200420/index.md",
     "content/post/placeholder-text/index.md",
     "content/post/placeholder-text/index.ar.md",
-    "content/post/emoji-support/index.md",
-    "content/post/markdown-syntax/index.md"
+    "content/post/emoji-support/index.md"
   ]
 }
