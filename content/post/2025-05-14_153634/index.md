@@ -13,13 +13,12 @@ tags:
   - Java
   - MyBatis
 description: MyBatis 风格
-image: Pasted-image-20250514161354.png
 ---
-
+![示意图](Pasted-image-20250514161354.png)
 # Spring Boot 三层架构 CRUD 与前后端联调笔记 (MyBatis 风格 Mapper)
 ---
 
-![Spring Boot CRUD 截图](./images/)
+
 ## 1. 核心概念：三层架构
 
 在典型的 Web 应用中，我们将后端逻辑划分为三个主要层次：
