@@ -7,6 +7,7 @@ categories:
   - Java
   - Springboot
 tags:
+  - springboot
 ---
 
 
